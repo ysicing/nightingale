@@ -27,8 +27,8 @@ require (
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/orcaman/concurrent-map v0.0.0-20210106121528-16402b402231
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.9.0
-	github.com/prometheus/common v0.17.0
+	github.com/prometheus/client_golang v1.11.1
+	github.com/prometheus/common v0.26.0
 	github.com/prometheus/prometheus v1.8.2-0.20210220213500-8c8de46003d1
 	github.com/smartystreets/assertions v1.0.0 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
@@ -36,7 +36,6 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/viper v1.7.1
 	github.com/subosito/gotenv v1.2.1-0.20190917103637-de67a6614a4d // indirect
-	github.com/toolkits/csrf v1.0.5
 	github.com/toolkits/pkg v1.1.3
 	github.com/ugorji/go/codec v1.1.7
 	go.uber.org/atomic v1.7.0
